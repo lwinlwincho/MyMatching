@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyMatching</string>
+    <!-- TODO: Remove or change this placeholder text
+    am
+    believe
+    is
+    challenge
+    have
+    -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="question1">to take or receive as one\'s own</string>
+    <string name="question2">to lead, guide or redirect</string>
+    <string name="question3">to say that someone is guilty of something</string>
+    <string name="question4">to manage or deal with</string>
+    <string name="question5">to manage or deal with</string>
+
+    <string name="answer1">conduct</string>
+    <string name="answer2">adopt</string>
+    <string name="answer3">handle</string>
+    <string name="answer4">interpret</string>
+    <string name="answer5">accuse</string>
+
+</resources>
+
